@@ -1,0 +1,17 @@
+{
+  "name": "dr-client",
+  "version": "0.0.1",
+  "description": "An experimental Dragon Realms client",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Jacob Gable <jacob.gable@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^0.8.5"
+  }
+}
